@@ -1,0 +1,9 @@
+1.执行create-react-app报错A template was not provided
+1:解决
+    关于处理方式是先卸载安装，再重新执行命令
+
+    npm uninstall -g create-react-app
+
+    然后执行
+
+    npx create-react-app my-app
