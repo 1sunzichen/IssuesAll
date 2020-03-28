@@ -1,0 +1,8 @@
+解决
+关于处理方式是先卸载安装，再重新执行命令
+
+npm uninstall -g create-react-app
+1
+然后执行
+
+npx create-react-app my-app
