@@ -46,3 +46,6 @@ Array.slice() 方法返回指定数组的一个片段或子数组。
   a.slice(3)//返回[4,5]
   
 ```
+### 判断数组的方法
+① instanceof 操作符判断
+②对象构造函数的 constructor判断
