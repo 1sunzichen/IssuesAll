@@ -49,3 +49,4 @@ Array.slice() 方法返回指定数组的一个片段或子数组。
 ### 判断数组的方法
 ① instanceof 操作符判断
 ②对象构造函数的 constructor判断
+https://segmentfault.com/a/1190000017790888
